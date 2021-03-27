@@ -22,7 +22,6 @@
 
 ```
 
-^_^
 
 ### AutoSyncScript项目介绍
 ```
